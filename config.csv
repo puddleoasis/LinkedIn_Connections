@@ -1,0 +1,11 @@
+## INPUT FILE PATH ##
+/<Full Path to File>/<linkedin_pitchbook_data>.csv
+
+## OUTPUT FILE PATH ##
+/<Full Path to File>/<linkedin_pitchbook_output>.csv
+
+## AUTH ##
+email@domain.com password_1234
+email_2@domain.com password_4321
+
+# EOF #
